@@ -2,3 +2,4 @@
 /.dirstamp
 /.libs
 /xxhash.lo
+*.o
